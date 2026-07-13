@@ -8,7 +8,7 @@
 #include <helpers/AutoDiscoverRTCClock.h>
 #include <helpers/sensors/EnvironmentSensorManager.h>
 #ifdef DISPLAY_CLASS
-  #include <helpers/ui/SSD1306Display.h>
+  #include <helpers/ui/SH1106Display.h>
   #include <helpers/ui/MomentaryButton.h>
 #endif
 
